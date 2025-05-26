@@ -32,7 +32,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\11 My D Drive\\Emulators\\Lego Universe Modding Tools\\DarkFlower\\InfectedRose\\InfectedRose.csproj": {
+                "projectPath": "C:\\11 My D Drive\\Emulators\\Lego Universe Modding Tools\\DarkFlower\\InfectedRose\\InfectedRose.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -50,6 +54,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "ImGui.NET": {
+              "target": "Package",
+              "version": "[1.91.6.1, )"
+            },
+            "OpenTK": {
+              "target": "Package",
+              "version": "[4.7.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

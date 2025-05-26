@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DarkFlower")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9599be8db4e1b1d0a3c79ef8abb6b7f0b7bdb2aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1989c57a536c960785fba2b6576023b7f3e7560")]
 [assembly: System.Reflection.AssemblyProductAttribute("DarkFlower")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DarkFlower")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
