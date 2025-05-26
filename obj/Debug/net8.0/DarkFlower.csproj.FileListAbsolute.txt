@@ -1,0 +1,14 @@
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\bin\Debug\net8.0\DarkFlower.exe
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\bin\Debug\net8.0\DarkFlower.deps.json
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\bin\Debug\net8.0\DarkFlower.runtimeconfig.json
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\bin\Debug\net8.0\DarkFlower.dll
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\bin\Debug\net8.0\DarkFlower.pdb
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\obj\Debug\net8.0\DarkFlower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\obj\Debug\net8.0\DarkFlower.AssemblyInfoInputs.cache
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\obj\Debug\net8.0\DarkFlower.AssemblyInfo.cs
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\obj\Debug\net8.0\DarkFlower.csproj.CoreCompileInputs.cache
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\obj\Debug\net8.0\DarkFlower.dll
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\obj\Debug\net8.0\refint\DarkFlower.dll
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\obj\Debug\net8.0\DarkFlower.pdb
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\obj\Debug\net8.0\DarkFlower.genruntimeconfig.cache
+C:\Users\Brian Grassi\MyDotNet8App\DarkFlower\obj\Debug\net8.0\ref\DarkFlower.dll
